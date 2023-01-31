@@ -1,0 +1,19 @@
+.data-table {
+    width: 100%;
+    background-color: var(--body-color);
+    border-collapse: collapse;
+    border-width: 2px;
+    border-color: var(--primary-color);
+    border-style: solid;
+    color: var(--text-color);
+  }
+  
+ .data-table td, .data-table th {
+    border-bottom: 2px solid var(--primary-color);
+    padding: 5px;
+    
+  }
+  
+.data-table thead {
+    background-color: var(--body-color);
+  }
