@@ -78,12 +78,7 @@
                         </a>
                     </li>
 
-                    <li class="nav-link">
-                        <a href="#" rel="page">
-                            <i class='bx bx-pie-chart-alt icon' ></i>
-                            <span class="text nav-text">Analytics</span>
-                        </a>
-                    </li>
+                    
 
                 </ul>
             </div>
